@@ -1,0 +1,11 @@
+{
+  "name": "web_scraping_practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^15.5.0"
+  }
+}
